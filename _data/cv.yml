@@ -11,74 +11,51 @@
 - title: Education
   type: time_table
   contents:
-    - title: Master of Science 
-      institution: Harvard Univeristy
+    - title: Master of Science in Data Science
+      institution: Harvard University, MA
       year: 2023 - 2025
       description:
-        - Data Science (SM)
-        # - Description 1.
-        # - Description 2.
-        # - title: Description 3.
-        #   contents:
-        #     - Sub-description 1.
-        #     - Sub-description 2.
-    - title: Bachelor of Arts
-      institution:  University of California, Berkeley
+        - "Cross-Registration in EECS at MIT"
+    - title: Bachelor of Arts (Double Majors)
+      institution: University of California, Berkeley, CA
       year: 2019 - 2023
       description:
-        - High Distinction (Expected)
-        - Statistics (BA)
-          # contents:
-          #   - Linear Modeling, Stochastic Processes, Time Series
-          #   # - Sub-description 2.
-        - Computer Science (BA)
-    
-    - title: High School Diploma
-      institution:  Experimental High School Attached to Beijing Normal University
-      year: 2013 - 2019
-      description:
-        - High School - International Department (2017 - 2019)
-        - High School - Gaokao Department (2016 - 2017)
-        - Middle School (2013 - 2016)
+        - "Computer Science & Statistics, High Distinction Honors"
 
-        
+- title: Professional Experience
+  type: time_table
+  contents:
+    - title: Software Engineer, LLM Inference Workload Performance
+      institution: NVIDIA, Santa Clara, CA
+      year: Jul 2025 - Present
+      description:
+        - "End-to-end LLM inference performance benchmarking, analysis, and automation infrastructure development"
+    - title: Software Intern, LLM Inference Workload Performance
+      institution: NVIDIA, Santa Clara, CA
+      year: May 2024 - Aug 2024
+      description:
+        - "LLM inference performance analysis platform with multi-agent system for interactive querying"
+    - title: Deep Learning Algorithm Engineer Intern
+      institution: Moonshot AI (Kimi), Beijing, China
+      year: Jun 2023 - Aug 2023
+      description:
+        - "Efficient LLM architecture with tokenization-free parallel decoding and adaptive token merging"
 
 - title: Research Experience
   type: time_table
   contents:
+    - title: Research Collaborator
+      institution: SGLang | Sky Computing Lab, UC Berkeley
+      year: Oct 2024 - May 2025
+      description:
+        - "Distributed GPU-sharing inference system for multi-LLM serving with 3.3x SLO and 2x cost reduction"
+    - title: Research Assistant
+      institution: Microsoft Research Lab - Asia (MSRA)
+      year: Sep 2023 - Sep 2024
+      description:
+        - "Mutual reasoning framework with MCTS for enhancing Small Language Models' reasoning capability"
     - title: Research Assistant
       institution: HPC-AI Lab, National University of Singapore
-      year: 2022 - present
+      year: May 2022 - Jul 2023
       description:
-        - Proposed a novel Continual Learning approach to
-          mitigate catastrophic forgetting problems and enhance the learning effect for vision-language model, 
-          Contrastive Language-Image Pre-training (CLIP)
-        - Supervised by Professor Yang You
-
-    - title: Research Assistant
-      institution: Berkeley Operations and Behavioral Analytics Lab, UC Berkeley
-      year: 2022 - present
-      description:
-        - Predicted player's type to provide personalized AI-generated tips from their actions with neural / feature-based models,
-          improving the collaboration between human and AI on decison making   
-        - Supervised by Professor Park Sinchaisri
-
-
-- title: Internship
-  type: time_table
-  contents:
-    - title: Data Analyst
-      institution: Flourish Fi, Berkeley, CA
-      year: 2022 
-      description:
-        - Pre-processed 65k+ transaction data and analyzed relationships between user's individual information (e.g., gender, age, etc.) and
-          their transactions' frequency, amount, and retention rate with SQL
-        - Deployed BERT-classifier to conduct sentiment analysis on users' comments 
-        - Modeling total transaction amount with user's sentiment
-
-    - title: Data Analyst
-      institution: Precogify Diagnostics Inc., Beijing
-      year: 2020 - 2021
-      description:
-        - Developed an Automatic Retention Rime Calibration System using Decision Tree Regressor and Generalized Linear Models
-          (GLMs) with early warning of abnormalities of test samples, replacing a manual process and significantly reducing the calibration process from hours to seconds
+        - "Continual learning of vision-language models with zero-shot transfer preservation"

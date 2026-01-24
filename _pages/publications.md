@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: It is a collection of my publications 
-years: [2023]
+years: [2025, 2024, 2023]
 # 1967, 1956, 1950, 1935, 1905
 nav: True
 nav_order: 1

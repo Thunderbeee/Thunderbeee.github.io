@@ -16,13 +16,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<!-- My name is Mingyuan Ma, ML Expert. I love Jennifer!     # <p>mamingyuan2001@berkeley.edu</p>
-    # <p>Berkeley, CA</p> -->
-I spent my four years undergraduate life at [UC Berkeley](https://www.berkeley.edu), with degrees in Statistics and in Computer Science. In August, 2023, I start my new journey at [Harvard University](https://www.harvard.edu) to study Data Science (SM).
+I am a **Software Engineer** at **NVIDIA**, working on LLM Inference Workload Performance in the Compute Architecture Group. I conduct end-to-end inference performance benchmarking and analysis, and build automation infrastructures for HPC benchmarking.
 
-During summer 2023, as Machine Learning Engineer at Moonshot AI, advised by [Prof. Zhilin Yang](https://kimiyoung.github.io), I work on the project of Efficient Deep Learning. At Berkeley, I work with [Prof. Park Sinchaisri](https://parksinchaisri.github.io), affiliate Berkeley Artificial Intelligence Research ([BAIR](https://bair.berkeley.edu/index.html#header)), from Haas School of Business, and our research project is the Human-AI collaboration. Besides, I work closely with [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/) at [HPC-AI Lab](https://ai.comp.nus.edu.sg), National University of Singapore. 
+I received my M.S. in Data Science from [Harvard University](https://www.harvard.edu), with cross-registration in EECS at MIT. Before that, I completed my B.A. in Computer Science and B.A. in Statistics (Double Majors with High Distinction Honors) at [UC Berkeley](https://www.berkeley.edu).
 
-My current research interest is related to **Efficient Deep Learning**, using less resources to train our models while keeping or imporving performance. From Data perspective, I am interested in **Continual Learning**, **Few-Shot Learning**.  From Algorithm perspective, I am interested in **Efficient Training** and **Model Compression**.
+My research interests include **LLM Inference Systems**, **Efficient Deep Learning**, and **Continual Learning**. I have collaborated with [SGLang](https://github.com/sgl-project/sglang) / [Sky Computing Lab](https://sky.cs.berkeley.edu/) at UC Berkeley on distributed GPU-sharing inference systems, with [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) on reasoning frameworks for Small Language Models, and with [HPC-AI Lab](https://ai.comp.nus.edu.sg) at NUS on continual learning of vision-language models. I also worked at [Moonshot AI (Kimi)](https://www.moonshot.cn/) on efficient LLM architectures.
 
 
 <!--
